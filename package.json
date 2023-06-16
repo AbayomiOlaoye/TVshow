@@ -7,19 +7,19 @@
     "test": "jest",
     "watch": "webpack --watch",
     "start": "webpack serve --open",
-    "build": "webpack"
+    "build": "webpack --output-path dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anyepeter/TVshow.git"
+    "url": "git+https://github.com/AbayomiOlaoye/TVshow.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/anyepeter/TVshow/issues"
+    "url": "https://github.com/AbayomiOlaoye/TVshow/issues"
   },
-  "homepage": "https://github.com/anyepeter/TVshow#readme",
+  "homepage": "https://github.com/AbayomiOlaoye/TVshow#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.1",
